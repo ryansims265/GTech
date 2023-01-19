@@ -1,1 +1,1 @@
-# GTech
+# Georgia Tech Covid Response
